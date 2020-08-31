@@ -1,6 +1,5 @@
 # TV-script-generation
 
-# Generate TV Scripts
 Udacity Deep Learning nanodegree `TV Script generation` project 
 
 Introduction
